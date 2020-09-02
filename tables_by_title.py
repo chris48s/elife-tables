@@ -6,6 +6,7 @@ from slugify import slugify
 
 TABLES_PATH = Path('./tables')
 OUT_PATH = Path('./html')
+STYLESHEET = "<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@1.2.1/dist/light.css' />"
 
 
 def get_child_text(parent):
@@ -39,7 +40,7 @@ def get_tables_html(title, tables):
     html = f"""
         <html>
             <head>
-                <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@1.2.1/dist/light.css' />
+                {STYLESHEET}
             </head>
             <body>
                 <h1>{title} ({len(tables)})</h1>
@@ -62,7 +63,7 @@ def get_index_html(duplicate_tables):
     html = f"""
         <html>
             <head>
-                <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@1.2.1/dist/light.css' />
+                {STYLESHEET}
             </head>
             <body>
                 <h1>Tables</h1>
