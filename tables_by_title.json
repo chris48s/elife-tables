@@ -1,0 +1,189 @@
+{
+  "data collection and refinement statistics": [
+    "tables/elife-43788-v2.xml/table-0.xml",
+    "tables/elife-31529-v1.xml/table-0.xml",
+    "tables/elife-34960-v2.xml/table-0.xml",
+    "tables/elife-50661-v2.xml/table-0.xml",
+    "tables/elife-43676-v3.xml/table-1.xml",
+    "tables/elife-38958-v2.xml/table-2.xml",
+    "tables/elife-44199-v1.xml/table-0.xml",
+    "tables/elife-45221-v3.xml/table-1.xml",
+    "tables/elife-43204-v1.xml/table-0.xml",
+    "tables/elife-45286-v2.xml/table-2.xml",
+    "tables/elife-32963-v1.xml/table-0.xml",
+    "tables/elife-43676-v2.xml/table-1.xml",
+    "tables/elife-55966-v2.xml/table-1.xml",
+    "tables/elife-58157-v2.xml/table-0.xml",
+    "tables/elife-38089-v2.xml/table-0.xml",
+    "tables/elife-36349-v2.xml/table-0.xml",
+    "tables/elife-50155-v1.xml/table-0.xml",
+    "tables/elife-47713-v2.xml/table-0.xml",
+    "tables/elife-43788-v3.xml/table-0.xml",
+    "tables/elife-35946-v2.xml/table-0.xml",
+    "tables/elife-26738-v1.xml/table-0.xml",
+    "tables/elife-34995-v2.xml/table-0.xml",
+    "tables/elife-45779-v2.xml/table-0.xml",
+    "tables/elife-29236-v1.xml/table-0.xml",
+    "tables/elife-29428-v2.xml/table-0.xml",
+    "tables/elife-34317-v1.xml/table-3.xml",
+    "tables/elife-47701-v1.xml/table-0.xml",
+    "tables/elife-38017-v2.xml/table-0.xml",
+    "tables/elife-35335-v2.xml/table-0.xml",
+    "tables/elife-38356-v2.xml/table-0.xml",
+    "tables/elife-52983-v2.xml/table-0.xml",
+    "tables/elife-40444-v2.xml/table-0.xml",
+    "tables/elife-36154-v2.xml/table-0.xml",
+    "tables/elife-45221-v2.xml/table-1.xml",
+    "tables/elife-32893-v1.xml/table-0.xml",
+    "tables/elife-33111-v2.xml/table-0.xml",
+    "tables/elife-41604-v2.xml/table-3.xml"
+  ],
+  "neuron model parameters": [
+    "tables/elife-50084-v2.xml/table-0.xml",
+    "tables/elife-49872-v2.xml/table-1.xml",
+    "tables/elife-50084-v3.xml/table-0.xml"
+  ],
+  "x-ray data collection and refinement statistics": [
+    "tables/elife-48968-v2.xml/table-0.xml",
+    "tables/elife-57081-v2.xml/table-0.xml",
+    "tables/elife-33067-v2.xml/table-0.xml",
+    "tables/elife-38362-v3.xml/table-0.xml",
+    "tables/elife-33442-v2.xml/table-0.xml",
+    "tables/elife-38770-v3.xml/table-2.xml",
+    "tables/elife-51913-v2.xml/table-1.xml",
+    "tables/elife-38362-v2.xml/table-0.xml",
+    "tables/elife-38770-v2.xml/table-2.xml",
+    "tables/elife-48968-v3.xml/table-0.xml",
+    "tables/elife-30395-v2.xml/table-0.xml",
+    "tables/elife-57887-v2.xml/table-0.xml"
+  ],
+  "cryo-em data collection, refinement and validation statistics": [
+    "tables/elife-47746-v2.xml/table-0.xml",
+    "tables/elife-53311-v2.xml/table-0.xml",
+    "tables/elife-33660-v2.xml/table-0.xml",
+    "tables/elife-44364-v3.xml/table-0.xml",
+    "tables/elife-59407-v2.xml/table-0.xml",
+    "tables/elife-55015-v2.xml/table-0.xml",
+    "tables/elife-38770-v2.xml/table-1.xml",
+    "tables/elife-56178-v2.xml/table-0.xml",
+    "tables/elife-38770-v3.xml/table-1.xml",
+    "tables/elife-56664-v1.xml/table-0.xml",
+    "tables/elife-54670-v2.xml/table-0.xml",
+    "tables/elife-46986-v1.xml/table-0.xml",
+    "tables/elife-53322-v2.xml/table-0.xml",
+    "tables/elife-44365-v2.xml/table-0.xml",
+    "tables/elife-45185-v1.xml/table-0.xml",
+    "tables/elife-56185-v1.xml/table-0.xml",
+    "tables/elife-53199-v2.xml/table-0.xml"
+  ],
+  "oligonucleotides used in this study": [
+    "tables/elife-47365-v2.xml/table-1.xml",
+    "tables/elife-32057-v1.xml/table-2.xml",
+    "tables/elife-44248-v3.xml/table-1.xml",
+    "tables/elife-29118-v2.xml/table-0.xml",
+    "tables/elife-32358-v2.xml/table-0.xml",
+    "tables/elife-45952-v2.xml/table-1.xml",
+    "tables/elife-32358-v1.xml/table-0.xml",
+    "tables/elife-56048-v2.xml/table-2.xml"
+  ],
+  "yeast strains used in this study": [
+    "tables/elife-31981-v2.xml/table-1.xml",
+    "tables/elife-43088-v2.xml/table-0.xml",
+    "tables/elife-30560-v2.xml/table-1.xml",
+    "tables/elife-30015-v2.xml/table-1.xml",
+    "tables/elife-35388-v1.xml/table-0.xml",
+    "tables/elife-48215-v2.xml/table-2.xml",
+    "tables/elife-31250-v2.xml/table-1.xml",
+    "tables/elife-32948-v2.xml/table-0.xml",
+    "tables/elife-58243-v2.xml/table-2.xml"
+  ],
+  "primers used in this study": [
+    "tables/elife-30205-v1.xml/table-2.xml",
+    "tables/elife-52482-v2.xml/table-3.xml",
+    "tables/elife-42834-v2.xml/table-1.xml",
+    "tables/elife-37419-v2.xml/table-0.xml",
+    "tables/elife-52741-v1.xml/table-1.xml",
+    "tables/elife-56844-v2.xml/table-1.xml"
+  ],
+  "strains used in this study": [
+    "tables/elife-48508-v2.xml/table-0.xml",
+    "tables/elife-50749-v1.xml/table-3.xml",
+    "tables/elife-32057-v1.xml/table-0.xml",
+    "tables/elife-52482-v2.xml/table-2.xml",
+    "tables/elife-34878-v1.xml/table-0.xml",
+    "tables/elife-27455-v3.xml/table-1.xml",
+    "tables/elife-30205-v1.xml/table-1.xml"
+  ],
+  "source data for table 1": [
+    "tables/elife-26129-v3.xml/table-0.xml",
+    "tables/elife-31549-v1.xml/table-0.xml",
+    "tables/elife-54275-v1.xml/table-0.xml",
+    "tables/elife-44889-v2.xml/table-0.xml",
+    "tables/elife-32506-v1.xml/table-0.xml",
+    "tables/elife-31549-v2.xml/table-0.xml"
+  ],
+  "model parameters": [
+    "tables/elife-42646-v2.xml/table-2.xml",
+    "tables/elife-28683-v2.xml/table-0.xml",
+    "tables/elife-33752-v1.xml/table-1.xml",
+    "tables/elife-30743-v2.xml/table-1.xml",
+    "tables/elife-50963-v2.xml/table-1.xml",
+    "tables/elife-27038-v2.xml/table-0.xml",
+    "tables/elife-27694-v1.xml/table-0.xml",
+    "tables/elife-48478-v1.xml/table-0.xml",
+    "tables/elife-27430-v2.xml/table-0.xml"
+  ],
+  "crystallographic data collection and refinement statistics": [
+    "tables/elife-12792-v4.xml/table-2.xml",
+    "tables/elife-49853-v2.xml/table-2.xml",
+    "tables/elife-37688-v2.xml/table-1.xml",
+    "tables/elife-37161-v2.xml/table-3.xml",
+    "tables/elife-31259-v2.xml/table-1.xml"
+  ],
+  "strains and plasmids used in this study": [
+    "tables/elife-46735-v2.xml/table-1.xml",
+    "tables/elife-27396-v2.xml/table-0.xml",
+    "tables/elife-28683-v2.xml/table-1.xml",
+    "tables/elife-57915-v2.xml/table-1.xml"
+  ],
+  "plasmids used in this study": [
+    "tables/elife-56582-v2.xml/table-1.xml",
+    "tables/elife-31981-v2.xml/table-2.xml",
+    "tables/elife-32057-v1.xml/table-1.xml",
+    "tables/elife-30205-v1.xml/table-3.xml",
+    "tables/elife-27455-v3.xml/table-2.xml",
+    "tables/elife-30015-v2.xml/table-2.xml",
+    "tables/elife-35588-v2.xml/table-0.xml",
+    "tables/elife-48215-v2.xml/table-3.xml",
+    "tables/elife-31250-v2.xml/table-0.xml",
+    "tables/elife-43826-v1.xml/table-1.xml"
+  ],
+  "sampling summary of universities from canada and the united states": [
+    "tables/elife-47338-v1.xml/table-0.xml",
+    "tables/elife-42254-v2.xml/table-0.xml",
+    "tables/elife-42254-v3.xml/table-0.xml"
+  ],
+  "plasmids": [
+    "tables/elife-36349-v2.xml/table-2.xml",
+    "tables/elife-37751-v2.xml/table-1.xml",
+    "tables/elife-47791-v2.xml/table-2.xml"
+  ],
+  "cryo-em data collection and model statistics": [
+    "tables/elife-47650-v2.xml/table-1.xml",
+    "tables/elife-48630-v3.xml/table-0.xml",
+    "tables/elife-48792-v2.xml/table-0.xml",
+    "tables/elife-48630-v2.xml/table-0.xml",
+    "tables/elife-49572-v3.xml/table-0.xml"
+  ],
+  "qpcr primers used in this study": [
+    "tables/elife-35388-v1.xml/table-1.xml",
+    "tables/elife-35407-v3.xml/table-2.xml",
+    "tables/elife-40526-v1.xml/table-1.xml"
+  ],
+  "x-ray crystallography data collection and refinement statistics": [
+    "tables/elife-43320-v2.xml/table-2.xml",
+    "tables/elife-43320-v2.xml/table-1.xml",
+    "tables/elife-52337-v2.xml/table-0.xml",
+    "tables/elife-43320-v2.xml/table-0.xml"
+  ]
+}
