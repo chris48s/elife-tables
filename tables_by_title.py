@@ -68,6 +68,10 @@ def get_index_html(duplicate_tables):
             <body>
                 <h1>Tables</h1>
                 <ul>
+                    <li><a href="tables-with-rowspan.html">Tables with rowspan</a></li>
+                    <li><a href="tables-with-colspan.html">Tables with colspan</a></li>
+                </ul>
+                <ul>
     """
 
     for title, tables in duplicate_tables.items():
@@ -122,3 +126,28 @@ for title, tables in duplicate_tables.items():
     write_html_file(slugify(title) + '.html', get_tables_html(title, tables))
 
 write_html_file('index.html', get_index_html(duplicate_tables))
+
+
+# find tables with difficult/non-trivial headers
+
+def get_tables_with_attribute(attr):
+    all_tables = []
+    for table in list(TABLES_PATH.rglob('*.xml')):
+        if table.is_dir():
+            continue
+        print(f'Parsing: {str(table)} ...')
+        text = table.read_bytes()
+        tree = etree.fromstring(text)
+        colspan_headers = tree.xpath(f'//th[@{attr}]')
+        if len(colspan_headers) > 0:
+            all_tables.append(table)
+    return all_tables
+
+colspan_tables = get_tables_with_attribute('colspan')
+rowspan_tables = get_tables_with_attribute('rowspan')
+for i, ct in enumerate(colspan_tables):
+    if ct in rowspan_tables:
+        del colspan_tables[i]
+
+write_html_file('tables-with-colspan.html', get_tables_html('Tables with colspan', colspan_tables))
+write_html_file('tables-with-rowspan.html', get_tables_html('Tables with rowspan', rowspan_tables))
